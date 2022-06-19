@@ -2,7 +2,9 @@
 
 A repository for revising all essential sql operations.
 
-Resources: https://www.sql-practice.com/
+Resources: 
+
+https://www.sql-practice.com/
 
 https://www.toptal.com/sql/interview-questions#form
 
